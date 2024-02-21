@@ -2,6 +2,8 @@
 
 A simple Tic Tac Toe game implemented in JavaScript for both Node.js and browser environments.
 
+![Tic Tac Toe Demo](/path/to/demo/screenshot.png)
+
 ## Overview
 
 This project provides a simple implementation of the classic Tic Tac Toe game. Players can play against each other on the command line using Node.js or in the browser.
@@ -35,6 +37,10 @@ This project provides a simple implementation of the classic Tic Tac Toe game. P
 
 Include screenshots of your game here if desired.
 
+## Demo
+
+Check out the live demo [here](https://student.cs.uwaterloo.ca/~j7zang/demo/tic-tac-toe/).
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please feel free to open an issue or create a pull request.
@@ -42,4 +48,3 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
