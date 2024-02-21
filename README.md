@@ -2,7 +2,7 @@
 
 A simple Tic Tac Toe game implemented in JavaScript for both Node.js and browser environments.
 
-![Tic Tac Toe Demo](/path/to/demo/screenshot.png)
+![Tic Tac Toe Demo](https://raw.githubusercontent.com/zangjiucheng/tic-tac-toe/main/demo.png)
 
 ## Overview
 
